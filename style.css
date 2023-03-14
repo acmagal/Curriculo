@@ -1,0 +1,64 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+body {
+   
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+
+.container {
+    
+    position: relative;
+    width: 100%;
+    width: 1000px;
+    min-height: 1000px;
+    margin: 50px;
+    background-color: white;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    box-shadow: 0  35px 55px rgba(0,0,0,0.1);
+}
+
+.container .lado_esquerdo {
+    position: relative;
+    background-color: #003147;
+    padding: 40px;
+
+}
+
+.container .lado_direito {
+    position: relative;
+    background-color: #fff;
+    padding: 40px;
+
+}
+/*parei aqui 6:06*/
+.profileText {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(255, 255, 255,0.2);
+}
+
+.container .lado_esquerdo .profileText .imgBx {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 250px;
+}
+
+
+
