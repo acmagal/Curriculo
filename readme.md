@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # O que aprendi com esse projeto:
 
 
@@ -17,3 +18,7 @@ tag {
 - Para textos maiores, que não iriam caber e eram da mesma seção, encapsulei ambos em uma classe para setar no css.
 
 - Inserção de hyperlinks que funcionam, nos sites da seção "Contato".
+=======
+# Projeto de Curriculo ultilizando HTML e CSS
+
+>>>>>>> f0ad110549b9e7b350dfd4e87a7e7363ab0ee286
