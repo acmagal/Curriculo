@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+
+# Projeto de Curriculo ultilizando HTML e CSS
 # O que aprendi com esse projeto:
 
 
@@ -9,7 +10,7 @@ tag {
 
     }
 
-- O min-weight, min-height, max-weight e max-height são usados em sua maioria como breakpoints para responsividade da página.
+- O min-width, min-height, max-weight e max-height são usados em sua maioria como breakpoints para responsividade da página.
 
 - Versionamento no git, como branches funcionam, como dar um git pull e push, como dar merge.
 
@@ -18,7 +19,7 @@ tag {
 - Para textos maiores, que não iriam caber e eram da mesma seção, encapsulei ambos em uma classe para setar no css.
 
 - Inserção de hyperlinks que funcionam, nos sites da seção "Contato".
-=======
-# Projeto de Curriculo ultilizando HTML e CSS
 
->>>>>>> f0ad110549b9e7b350dfd4e87a7e7363ab0ee286
+
+
+
