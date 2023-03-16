@@ -10,7 +10,7 @@ tag {
 
     }
 
-- O min-width, min-height, max-weight e max-height são usados em sua maioria como breakpoints para responsividade da página.
+- O min-width, min-height, max-width e max-height são usados em sua maioria como breakpoints para responsividade da página.
 
 - Versionamento no git, como branches funcionam, como dar um git pull e push, como dar merge.
 
