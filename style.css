@@ -174,3 +174,55 @@ main {
 .formaText {
     color: #fff;
 }
+
+
+
+/*-----------------------------------------------------------------------------*/
+
+
+.sobre {
+    font-weight: 900;
+    margin-bottom: 50px;
+}
+
+.sobre:last-child {
+    margin-bottom: 0;
+}
+
+.titulo2 {
+    color: #003147;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 1px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.sobre .box {
+    display: flex;
+    flex-direction: row;
+    margin: 30px 0;    
+}
+
+.sobre .box .ano_empresa{
+    min-width: 150px;
+    font-size: 1.5em;
+    color: #848c90;
+}
+
+.text2 h4 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.2em;
+    color: #03a9f4;
+    text-transform: uppercase;
+}
+
+.experiencia {
+    color: #003147;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 1px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
