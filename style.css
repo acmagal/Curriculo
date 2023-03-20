@@ -125,6 +125,10 @@ main {
     align-items: start;
 }
 
+.location {
+    cursor: default;
+}
+
 
 
 /*-----------------------------------------------------------------------------*/
@@ -163,6 +167,10 @@ main {
     font-weight: 600;
     letter-spacing: 1px;
     margin-bottom: 20px;
+}
+
+.text {
+    cursor: default;
 }
 
 
