@@ -1,5 +1,8 @@
 
 # Projeto de Curriculo ultilizando HTML e CSS
+
+https://acmagal.github.io/Curriculo/
+
 # O que aprendi com esse projeto:
 
 
